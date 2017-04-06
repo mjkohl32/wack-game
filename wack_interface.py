@@ -1,6 +1,6 @@
 
 import random
-from final.graphics import *
+from graphics import *
 
 
 class Button:
