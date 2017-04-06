@@ -1,4 +1,4 @@
-from final.wack_interface import *
+from wack_interface import *
 
 
 def play_game():
